@@ -1,6 +1,6 @@
 import React from "react";
 import "./Plans.css";
-import training_1 from "../../assets/training-1.JPG";
+import training_1 from "../../assets/training-1.jpg";
 import training_2 from "../../assets/training-2.jpeg";
 import training_3 from "../../assets/training-3.jpeg";
 import training_4 from "../../assets/training-4.jpg";

@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import play_icon from "../../assets/play-icon.png";
-import mafe_about from "../../assets/mafe-about.JPG";
+import mafe_about from "../../assets/mafe-about.jpg";
 
 const About = ({setPlayState}) => {
   return (

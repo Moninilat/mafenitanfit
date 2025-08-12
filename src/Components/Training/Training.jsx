@@ -1,7 +1,7 @@
 /*import React from "react";
 import "./Training.css";
 import training_1 from "../../Assets/training-1.jpeg";
-import training_2 from "../../Assets/training-2.JPG";
+import training_2 from "../../Assets/training-2.jpg";
 import training_3 from "../../Assets/training-3.jpeg";
 import training_4 from "../../Assets/training-4.jpg";
 
