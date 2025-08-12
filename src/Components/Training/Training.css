@@ -1,0 +1,32 @@
+.training {
+    margin: 80px auto;
+    width: 80%;
+    text-align: center;
+}
+
+.galery {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.galery img {
+    width: 20%;
+  height: 250px; /* o el valor que te guste */
+    object-fit: cover;
+    border-radius: 10px;
+  
+}
+
+/*media query*/
+@media(max-width: 800px) {
+    .galery  {
+        flex-wrap: wrap;
+    }
+    .galery img {
+        width: 45%;
+        margin-bottom: 25px;
+    }
+}
