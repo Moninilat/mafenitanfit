@@ -15,7 +15,8 @@ const [result, setResult] = React.useState("");
     setResult("Sending....");
     const formData = new FormData(event.target);
 
-    formData.append("access_key", "0a16a79f-5aac-48e8-9c9c-d5ed6ac72ca1");
+    formData.append("access_key", import.meta.env.VITE_WEB3FORMS_KEY);
+
 
     const response = await fetch("https://api.web3forms.com/submit", {
       method: "POST",
