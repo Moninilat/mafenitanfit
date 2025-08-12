@@ -1,11 +1,11 @@
 import React from "react";
 import "./Plans.css";
-import training_1 from "../../Assets/training-1.JPG";
-import training_2 from "../../Assets/training-2.jpeg";
-import training_3 from "../../Assets/training-3.jpeg";
-import training_4 from "../../Assets/training-4.jpg";
-import training_5 from "../../Assets/training-5.jpg";
-import training_6 from "../../Assets/training-6.jpg";
+import training_1 from "../../assets/training-1.JPG";
+import training_2 from "../../assets/training-2.jpeg";
+import training_3 from "../../assets/training-3.jpeg";
+import training_4 from "../../assets/training-4.jpg";
+import training_5 from "../../assets/training-5.jpg";
+import training_6 from "../../assets/training-6.jpg";
 
 const plans = [
   {

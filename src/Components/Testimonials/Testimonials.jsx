@@ -1,11 +1,11 @@
 import React, { useRef } from "react";
 import "./Testimonials.css";
-import right_arrow from "../../Assets/right-white-arrow.png";
-import left_arrow from "../../Assets/left-white-arrow.png";
-import testimonial_1 from "../../Assets/testimonial-1.jpg";
-import testimonial_2 from "../../Assets/testimonial-2.jpg";
-import testimonial_3 from "../../Assets/testimonial-3.jpg";
-import testimonial_4 from "../../Assets/testimonial-4.jpg";
+import right_arrow from "../../assets/right-white-arrow.png";
+import left_arrow from "../../assets/left-white-arrow.png";
+import testimonial_1 from "../../assets/testimonial-1.jpg";
+import testimonial_2 from "../../assets/testimonial-2.jpg";
+import testimonial_3 from "../../assets/testimonial-3.jpg";
+import testimonial_4 from "../../assets/testimonial-4.jpg";
 
 const Testimonials = () => {
   const slider = useRef();

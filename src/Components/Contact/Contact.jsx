@@ -1,9 +1,9 @@
 import React from "react";
 import "./Contact.css";
-import message_icon from "../../Assets/message-icon.png";
-import phone_icon from "../../Assets/phone-icon.png";
-import email_heart from "../../Assets/email-heart.png";
-import right_white_arrow from "../../Assets/right-white-arrow.png";
+import message_icon from "../../assets/message-icon.png";
+import phone_icon from "../../assets/phone-icon.png";
+import email_heart from "../../assets/email-heart.png";
+import right_white_arrow from "../../assets/right-white-arrow.png";
 
 
 const Contact = () => {
